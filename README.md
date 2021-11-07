@@ -17,4 +17,4 @@ For the EPFL master class Image analysis and Pattern Recognition, Prof. Thiran
 All models are already trained.
 Intermediate files of the testing set are stored to numers/ cards/ redressed_cards/ and suits/ with name game_8_....
 
-In order to launch the algorithm on a test set, copy the 13 .jpg-files to the folder 'test_game' and launch the Jupyter notebook
+In order to launch the algorithm on a test set, copy the 13 .jpg-files to the folder 'test_game' and launch the [main.ipbn](./main.ipynb) Jupyter notebook.
